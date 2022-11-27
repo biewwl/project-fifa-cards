@@ -1,0 +1,21 @@
+/* Fonts */
+
+@font-face {
+  font-family: "646";
+  src: url("../../fonts/646-font.otf");
+}
+
+/* Animations */
+
+@keyframes toRight {
+  
+  0% {
+    opacity: 0%;
+    transform: translateX(-10px);
+  }
+  100% {
+    opacity: 100%;
+    transform: translateX(0);
+  }
+}
+

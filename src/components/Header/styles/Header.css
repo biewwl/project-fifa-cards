@@ -1,0 +1,34 @@
+._header {
+  background-color: var(--grey-dark);
+  position: fixed;
+  width: 100vw;
+  z-index: 100;
+  top: 0;
+  height: 60px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  align-items: center;
+  justify-items: center;
+  gap: 30px;
+  border-bottom: 1px solid var(--yellow);
+  font-family: sans-serif;
+}
+
+._header a {
+  font-size: 0.8em;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  color: #fff;
+}
+
+._header a svg {
+  color: var(--yellow);
+  font-size: 1.2em;
+}
+
+._header > svg {
+  color: var(--yellow);
+  font-size: 3em;
+}

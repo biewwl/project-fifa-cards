@@ -1,0 +1,24 @@
+._form_attributes {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+._form_attribute {
+  align-items: flex-end;
+  display: grid;
+  gap: 30px;
+  grid-template-columns: repeat(2, 80px);
+}
+
+._form_attribute_name, ._form_attribute_value {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  font-size: 0.8em;
+  gap: 5px;
+}
+
+._form_attribute input {
+  width: 100%;
+}

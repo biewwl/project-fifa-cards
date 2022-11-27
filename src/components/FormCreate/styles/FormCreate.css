@@ -1,0 +1,147 @@
+._form_create {
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 30px;
+  min-width: 300px;
+  width: 95%;
+  max-width: 400px;
+  font-family: sans-serif;
+  padding: 30px;
+  transition: 0.5s;
+}
+
+._form_create > div {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+._form_top {
+  height: 100%;
+  justify-content: center;
+  align-items: center;
+}
+
+._form_top label,
+input,
+select {
+  width: 100%;
+}
+
+._form_create ._form_buttons {
+  gap: 0;
+  width: 100%;
+  align-items: center;
+}
+
+._form_create::-webkit-scrollbar {
+  display: none;
+}
+
+._form_create > div > label,
+._form_create > label {
+  font-size: 0.8em;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+._form_create > label input {
+  width: 100%;
+}
+
+._form_create > div > label span,
+._form_create > label span {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  padding: 10px 0;
+}
+
+._form_create label svg {
+  color: var(--yellow);
+}
+
+._label_total_points_input,
+._label_position_input {
+  align-items: center;
+  display: grid !important;
+  grid-template-columns: repeat(2, 80px);
+}
+
+._total_points_input,
+._position_input {
+  width: 80px !important;
+}
+
+._form_create input,
+select {
+  height: 34px;
+  padding-left: 10px;
+  border-radius: 0.2em;
+  color: #fff;
+  background-color: var(--grey-opacity-2);
+  outline: none;
+  border: none;
+}
+
+select::-webkit-scrollbar {
+  display: none;
+}
+
+._form_create option {
+  padding: 20px;
+  background-color: #494949;
+}
+
+._form_prev_next {
+  display: flex;
+  justify-content: space-evenly;
+  width: 100%;
+}
+
+._form_prev_next button {
+  font-size: 1.2em;
+  width: 30px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: none;
+  background: none;
+  color: var(--grey-opacity-1);
+  transition: 0.5s;
+  border-radius: 50%;
+  background-color: var(--grey-opacity-2);
+  backdrop-filter: blur(10px);
+  border-radius: 0.5em;
+}
+
+._form_prev_next button:hover {
+  color: #fff;
+  cursor: pointer;
+}
+
+._form_prev_next button:disabled {
+  opacity: 0.2;
+  background: none;
+  color: var(--grey-opacity-1);
+}
+
+._form_create ._button_submit {
+  padding: 10px 20px;
+  margin-bottom: 30px;
+  border-radius: 0.5em;
+  cursor: pointer;
+  font-size: 0.7em;
+  background: none;
+  border: 2px solid #fff;
+  color: #fff;
+  transition: 0.5s;
+}
+
+._form_create ._button_submit:hover {
+  background-color: var(--grey-opacity-1);
+}

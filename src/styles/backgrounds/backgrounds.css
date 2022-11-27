@@ -1,0 +1,562 @@
+.ajaxTeam {
+  background-image: url("../../images/cards-background/AJAX_LINES.png");
+  color: #e61e30;
+}
+
+.anderletchTeam {
+  background-image: url("../../images/cards-background/ANDERLETCH_LINES.png");
+  color: #fff;
+}
+
+.atalantaTeam {
+  background-image: url("../../images/cards-background/ATALANTA_LINES.png");
+  color: #fff;
+}
+
+.atalantaUnitedTeam {
+  background-image: url("../../images/cards-background/ATLANTA-UTD_LINES.png");
+  color: #fff;
+}
+
+.atleticoMadridTeam {
+  background-image: url("../../images/cards-background/ATLETICO-MADRID.png");
+  color: #fff;
+}
+
+.barcelonaTeam {
+  background-image: url("../../images/cards-background/BARCELONA.png");
+  color: #edbb00;
+}
+
+.bayernTeam {
+  background-image: url("../../images/cards-background/BAYERN-MUNICH.png");
+  color: #fff;
+}
+
+.benficaTeam {
+  background-image: url("../../images/cards-background/BENFICA_LINES.png");
+  color: #fff;
+}
+
+.birthday21 {
+  background-image: url("../../images/cards-background/BIRTHDAY-FIFA-21.png");
+  color: #fff;
+}
+
+.bocaJuniorsTeam {
+  background-image: url("../../images/cards-background/BOCA-JUNIORS_LINE.png");
+  color: #fcaf20;
+}
+
+.borussiaTeam {
+  background-image: url("../../images/cards-background/BORUSSIA.png");
+  color: #fff;
+}
+
+.bronze22 {
+  background-image: url("../../images/cards-background/BRONZE_FIFA_22.png");
+  color: #522c17;
+}
+
+.celticTeam {
+  background-image: url("../../images/cards-background/CELTIC.png");
+  color: #fff;
+}
+
+.conferenceLeague23 {
+  background-image: url("../../images/cards-background/CONFERENCE-LEAGUE_FIFA_23.png");
+  color: #fff;
+}
+
+.frankfurtTeam {
+  background-image: url("../../images/cards-background//EINTRACHT-FRANKFURT_LINES.png");
+  color: #fff;
+}
+
+.englandTeam23 {
+  background-image: url("../../images/cards-background/ENGLAND_FIFA-23.png");
+  color: #2b54a4;
+}
+
+.euroCup20 {
+  background-image: url("../../images/cards-background/EUROCOPA-2020_FIFA-21.png");
+  color: #fff;
+}
+
+.fenerbacheTeam {
+  background-image: url("../../images/cards-background/FENERBACHE.png");
+  color: #000;
+}
+
+.festivalOfFootball21 {
+  background-image: url("../../images/cards-background/FESTIVAL-OF-FOOTBALL_FIFA-21.png");
+  color: #000;
+}
+
+.flamengoTeam {
+  background-image: url("../../images/cards-background/FLAMENGO_LINES.png");
+  color: #000;
+}
+
+.flashback23 {
+  background-image: url("../../images/cards-background/FLASHBACK_FIFA_23.png");
+  color: #fff;
+}
+
+.birthday22 {
+  background-image: url("../../images/cards-background/FUT-BIRTHDAY_FIFA_22.png");
+  color: #fff;
+}
+
+.fantasyRed {
+  background-image: url("../../images/cards-background/FUT-FANTASY-RED_FIFA_22.png");
+  color: #fff;
+}
+
+.champions22 {
+  background-image: url("../../images/cards-background/FUTCHAMPIONS_FIFA_22.png");
+  color: #fbdb8b;
+}
+
+.champions22 ._card_aside {
+  transform: translateX(-10px) translateY(25px);
+}
+
+.futureStars22 {
+  background-image: url("../../images/cards-background/FUTURE-STARS_FIFA_22-1.png");
+  color: #fff;
+}
+
+.galatasarayTeam {
+  background-image: url("../../images/cards-background/GALATASARAY.png");
+  color: #fff;
+}
+
+.gold22 {
+  background-image: url("../../images/cards-background/GOLD_FIFA_22.png");
+  color: #544010;
+}
+
+.gold23 {
+  background-image: url("../../images/cards-background/GOLD_FIFA_23.png");
+  color: #544010;
+}
+
+.hero22_1 {
+  background-image: url("../../images/cards-background/HERO_FIFA_22-1.png");
+  color: #fff;
+}
+
+.hero22_2 {
+  background-image: url("../../images/cards-background/HERO_FIFA_22-2.png");
+  color: #fff;
+}
+
+.hero22_2 ._card_aside {
+  transform: translateY(25px);
+}
+
+.hero23 {
+  background-image: url("../../images/cards-background/HERO_FIFA_23.png");
+  color: #fff;
+}
+
+.icon22_2 {
+  background-image: url("../../images/cards-background/ICON_FIFA_22-2.png");
+  color: #544010;
+}
+
+.icon23 {
+  background-image: url("../../images/cards-background/ICON_FIFA_23.png");
+  color: #544010;
+}
+
+.inform23 {
+  background-image: url("../../images/cards-background/IF_FIFA_23.png");
+  color: #fff2ac;
+}
+
+.inform22 {
+  background-image: url("../../images/cards-background/INFORM_FIFA_22.png");
+  color: #fff2ac;
+}
+
+.interMiamiTeam {
+  background-image: url("../../images/cards-background/INTER-MIAMI-LINES.png");
+  color: #000;
+}
+
+.interTeam {
+  background-image: url("../../images/cards-background/INTER.png");
+  color: #b8a06b;
+}
+
+.istanbulTeam {
+  background-image: url("../../images/cards-background/ISTANBUL.png");
+  color: #fff;
+}
+
+.juventusTeam {
+  background-image: url("../../images/cards-background/JUVENTUS.png");
+  color: #fff;
+}
+
+.lazioTeam {
+  background-image: url("../../images/cards-background/LAZIO_LINES.png");
+  color: #fff;
+}
+
+.leipzigTeam {
+  background-image: url("../../images/cards-background/LEIPZIG_LINES.png");
+  color: #fff;
+}
+
+.leverkusenTeam {
+  background-image: url("../../images/cards-background/LEVERKUSEN_LINES.png");
+  color: #fff;
+}
+
+.lilleTeam {
+  background-image: url("../../images/cards-background/LILLE_LINES.png");
+  color: #fff;
+}
+
+.lyonTeam {
+  background-image: url("../../images/cards-background/LYON_LINES.png");
+  color: #fff;
+}
+
+.realMadridTeam {
+  background-image: url("../../images/cards-background/MADRID.png");
+  color: #1f3b76;
+}
+
+.olympiqueMarseilleTeam {
+  background-image: url("../../images/cards-background/MARSELLA.png");
+  color: #fff;
+}
+
+.monacoTeam {
+  background-image: url("../../images/cards-background/MONACO_LINES.png");
+  color: #fff;
+}
+
+.monchengladbachTeam {
+  background-image: url("../../images/cards-background/MONCHENGLADBACH_LINES.png");
+  color: #fff;
+}
+
+.napoliTeam {
+  background-image: url("../../images/cards-background/NAPOLI_LINES.png");
+  color: #fff;
+}
+
+.englandTeam {
+  background-image: url("../../images/cards-background/NATIONS-CARD-ENGLAND.png");
+  color: #000;
+}
+
+.nextGeneration22 {
+  background-image: url("../../images/cards-background/NEXT-GENERATION_FIFA_22.png");
+  color: #000;
+}
+
+.objectiveRewards23 {
+  background-image: url("../../images/cards-background/OBJETIVE-REWARDS_FIFA_23.png");
+  color: #fff;
+}
+
+.orlandoTeam {
+  background-image: url("../../images/cards-background/ORLANDO-CITY_LINES.png");
+  color: #fff;
+}
+
+.otw22 {
+  background-image: url("../../images/cards-background/OTW_FIFA_22.png");
+  color: #fff;
+}
+
+.otw23 {
+  background-image: url("../../images/cards-background/OTW_FIFA_23.png");
+  color: #fff;
+}
+
+.pathToGlory23 {
+  background-image: url("../../images/cards-background/PATH-TO-GLORY_FIFA_23.png");
+  color: #fff;
+}
+
+.portoTeam {
+  background-image: url("../../images/cards-background/PORTO_LINES.png");
+  color: #fff;
+}
+
+.eredivise {
+  background-image: url("../../images/cards-background/POTM_EREDIVISE_FIFA_22.png");
+  color: #fff;
+}
+
+.eredivise ._card_aside {
+  transform: translateY(25px) translateX(-4px);
+}
+
+.ligue1 {
+  background-image: url("../../images/cards-background/POTM_LIGUE-1_FIFA_22.png");
+  color: #fff;
+}
+
+.ligue1 ._card_aside {
+  transform: translateY(25px) translateX(-4px);
+}
+
+.premier {
+  background-image: url("../../images/cards-background/POTM_PREMIER_FIFA_22.png");
+  color: #fff;
+}
+
+.premier ._card_aside {
+  transform: translateY(25px) translateX(-4px);
+}
+
+.primeIcon21 {
+  background-image: url("../../images/cards-background/PRIME-ICON_FIFA-21.png");
+  color: #544010;
+}
+
+.proPlayer22 {
+  background-image: url("../../images/cards-background/PRO-PLAYER_FIFA_22.png");
+  color: #fff;
+}
+
+.proPlayer22 ._card_aside {
+  transform: translateY(25px);
+}
+
+.psgTeam {
+  background-image: url("../../images/cards-background/PSG.png");
+  color: #fff;
+}
+
+.psvTeam {
+  background-image: url("../../images/cards-background/PSV_LINES.png");
+  color: #fff;
+}
+
+.rangers {
+  background-image: url("../../images/cards-background/RANGERS.png");
+  color: #fff;
+}
+
+.realSociedadTeam {
+  background-image: url("../../images/cards-background/REAL-SOCIEDAD_LINES.png");
+  color: #fff;
+}
+
+.recordBreaker21 {
+  background-image: url("../../images/cards-background/RECORD-BREAKER-FIFA-21.png");
+  color: #fff;
+}
+
+.riverTeam {
+  background-image: url("../../images/cards-background/RIVER-PLATE_LINES.png");
+  color: #c71f26;
+}
+
+.romaTeam {
+  background-image: url("../../images/cards-background/ROMA_LINES.png");
+  color: #fdb513;
+}
+
+.rulerBreaker22 {
+  background-image: url("../../images/cards-background/RULEBREAKER_FIFA_22.png");
+  color: #fff;
+}
+
+.rulerBreaker23 {
+  background-image: url("../../images/cards-background/RULEBREAKER_FIFA_23.png");
+  color: #fff;
+}
+
+.sbc22 {
+  background-image: url("../../images/cards-background/SBC_FIFA_22-1.png");
+  color: #fff;
+}
+
+.sbcPremium22 {
+  background-image: url("../../images/cards-background/SBC-PREMIUM_FIFA_22-1.png");
+  color: #fff;
+}
+
+.sbcPremium23 {
+  background-image: url("../../images/cards-background/SBC_PREMIUM_FIFA-23-1.png");
+  color: #fff;
+}
+
+.seasonReward22 {
+  background-image: url("../../images/cards-background/SEASON-REWARD_FIFA_22.png");
+  color: #fff;
+}
+
+.seasonReward22 ._card_aside {
+  transform: translateY(25px);
+}
+
+.sevillaTeam {
+  background-image: url("../../images/cards-background/SEVILLA_LINES.png");
+  color: #fff;
+}
+
+.shapeShifter23 {
+  background-image: url("../../images/cards-background/SHAPESHIFTER_FIFA_23.png");
+  color: #fff;
+}
+
+.silver22 {
+  background-image: url("../../images/cards-background/SILVER_FIFA_22.png");
+  color: #1b1b1b;
+}
+
+.sportingTeam {
+  background-image: url("../../images/cards-background/SPORTING-LISBOA_LINES.png");
+  color: #fff;
+}
+
+.summerStars21 {
+  background-image: url("../../images/cards-background/SUMMER-STARS_FIFA-21.png");
+  color: #fff;
+}
+
+.tots22 {
+  background-image: url("../../images/cards-background/TOTS_FIFA_22.png");
+  color: #fff;
+}
+
+.totssf {
+  background-image: url("../../images/cards-background/TOTSSF-1.png");
+  color: #fff;
+}
+
+.toty21 {
+  background-image: url("../../images/cards-background/TOTY-FIFA21.png");
+  color: #fff;
+}
+
+.toty22 {
+  background-image: url("../../images/cards-background/TOTY_FIFA_22.png");
+  color: #fff;
+}
+
+.ucl22 {
+  background-image: url("../../images/cards-background/UCL_FIFA_22.png");
+  color: #fff;
+}
+
+.ucl22 ._card_aside {
+  transform: translateY(25px) translateX(-2px);
+}
+
+.ucl23 {
+  background-image: url("../../images/cards-background/UCL-RTTF_FIFA_23.png");
+  color: #fff;
+}
+
+.uel22 {
+  background-image: url("../../images/cards-background/UEL_FIFA_22.png");
+  color: #ff6200;
+}
+
+.uel22 ._card_aside {
+  transform: translateY(27px) translateX(-3px);
+}
+
+.uel23 {
+  background-image: url("../../images/cards-background/UEL_FIFA_23.png");
+  color: #fff;
+}
+
+.valenciaTeam {
+  background-image: url("../../images/cards-background/VALENCIA.png");
+  color: #000;
+}
+
+.versusFire22 {
+  background-image: url("../../images/cards-background/VERSUS-FIRE_FIFA_22.png");
+  color: #ececec;
+}
+
+.villarealTeam {
+  background-image: url("../../images/cards-background/VILLAREAL_LINES.png");
+  color: #005a9b;
+}
+
+.vip22 {
+  background-image: url("../../images/cards-background/VIP_FIFA_22.png");
+  color: #0033b6;
+}
+
+.vip22 ._card_aside {
+  transform: translateY(27px) translateX(-2px);
+}
+
+.walesTeam {
+  background-image: url("../../images/cards-background/WALES_FIFA-23.png");
+  color: #fff;
+}
+
+.wcIcon23 {
+  background-image: url("../../images/cards-background/WC_ICON_FIFA_23.png");
+  color: #5e4019;
+}
+
+.wcPlayer {
+  background-image: url("../../images/cards-background/WC_PLAYER.png");
+  color: #fff;
+}
+
+.wcStar {
+  background-image: url("../../images/cards-background/WC_STAR_FIFA-23.png");
+  color: #fff;
+}
+
+.wcTOTT {
+  background-image: url("../../images/cards-background/WC_TEAM-OF-THE-TOURNAMENT_FIFA-23.png");
+  color: #fff;
+}
+
+.winterWildCard {
+  background-image: url("../../images/cards-background/WINTER-WILCARD_FIFA_22.png");
+  color: #fff;
+}
+
+.worldCupHero {
+  background-image: url("../../images/cards-background/WORLD_CUP_HERO_FIFA_23.png");
+  color: #fde57d;
+}
+
+.nightSky {
+  background-image: url("../../images/cards-background/NIGHT_SKY.png");
+  background-size: 118% !important;
+  color: #fde57d;
+}
+
+.nightSky ._card_aside {
+  transform: translateY(21px) translateX(-2px);
+}
+
+.nightSky ._card_bottom_content {
+  transform: translateY(45px);
+}
+
+.ambar {
+  background-image: url("../../images/cards-background/AMBAR.png");
+  background-size: 118% !important;
+  color: #000;
+}
+
+.ambar ._card_aside {
+  transform: translateY(20px);
+}
+
+.ambar ._card_bottom_content {
+  transform: translateY(45px);
+}

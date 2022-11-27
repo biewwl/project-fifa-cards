@@ -1,0 +1,35 @@
+._presets {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, 185px);
+  gap: 10px;
+  width: 100%;
+  justify-items: center;
+  justify-content: space-evenly;
+}
+
+._presets label {
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+._presets ._preset_card {
+  width: 150px;
+  overflow: hidden;
+  height: 270px;
+}
+
+._presets ._card {
+  scale: 0.5;
+  transform: translateX(-50%) translateY(-45%);
+}
+
+._presets input[ type = radio ]{
+  display: none;
+}
+
+._presets ._preset_name {
+  color: #fff;
+  text-align: center;
+};

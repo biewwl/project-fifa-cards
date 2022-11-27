@@ -1,0 +1,25 @@
+._create_card {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: space-evenly;
+  min-height: 100vh;
+  padding: 20px 20px 80px;
+}
+
+._create_card > div {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+._create_card ._btn_presets {
+  background-color: var(--grey-opacity-2);
+  border-radius: 0.5em;
+  border: none;
+  color: #fff;
+  cursor: pointer;
+  padding: 10px 20px;
+}

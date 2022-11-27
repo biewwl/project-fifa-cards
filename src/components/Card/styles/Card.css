@@ -1,0 +1,152 @@
+._card {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  height: 490px;
+  width: 300px;
+}
+
+/* In Collection */
+._collection_content ._card {
+  scale: 0.6;
+  transform: translateX(-32%) translateY(-32%);
+}
+/*  */
+
+._card_top_content {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  height: 42.8%;
+  position: relative;
+  transform: translateY(24%);
+  width: 100%;
+}
+
+._card_aside {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 8.5px;
+  left: 45.5px;
+  position: absolute;
+  transform: translateY(30px);
+  width: 45px;
+}
+
+._points_position {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  font-family: "646", sans-serif;
+  font-weight: 800;
+}
+
+._card_total_points {
+  font-size: 3em;
+  text-align: center;
+}
+
+._position {
+  font-size: 1.5em;
+  transform: translateY(-10px);
+}
+
+._country {
+  align-items: center;
+  display: flex;
+  height: 45px;
+  justify-content: center;
+  transform: translateY(-20px);
+  width: 100%;
+}
+
+._country img {
+  width: 100%;
+}
+
+._club {
+  height: 40px;
+  object-fit: contain;
+  transform: translateY(-20px);
+  width: 40px;
+}
+
+._player_image {
+  height: 100%;
+  max-width: 200px;
+  object-fit: cover;
+  transform: translateX(-10px);
+}
+
+._card_bottom_content {
+  height: 36%;
+  transform: translateY(50px);
+}
+
+._card_name {
+  font-family: "646", sans-serif;
+  font-size: 2.2em;
+  font-weight: 800;
+  height: 61px;
+  letter-spacing: 2px;
+  padding: 10px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+._attributes {
+  display: flex;
+  font-family: "646", sans-serif;
+  font-size: 1.8em;
+  gap: 70px;
+  justify-content: center;
+  padding: 5px;
+}
+
+._attribute {
+  display: flex;
+  gap: 10px;
+}
+
+._attribute_value {
+  font-weight: 900;
+}
+
+._delete_btn {
+  align-items: center;
+  background: none;
+  border: none;
+  color: var(--red);
+  cursor: pointer;
+  display: flex;
+  font-size: 1em;
+  height: 30px;
+  justify-content: center;
+  opacity: 0;
+  transform: translateX(270px) translateY(-370px);
+  transition: 0.5s;
+  width: 30px;
+}
+
+._edit_btn {
+  align-items: center;
+  background: none;
+  border: none;
+  color: #fff;
+  cursor: pointer;
+  display: flex;
+  font-size: 1em;
+  height: 30px;
+  justify-content: center;
+  opacity: 0;
+  transform: translateY(-400px);
+  transition: 0.5s;
+  width: 30px;
+}
+
+._card:hover ._delete_btn,
+._card:hover ._edit_btn {
+  font-size: 2em;
+  opacity: 1;
+}
