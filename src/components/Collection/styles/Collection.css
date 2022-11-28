@@ -63,8 +63,15 @@
   width: 100%;
 }
 
-._collection_name span {
+._header_collection ._collection_name span:first-child {
   outline: 0;
+  padding: 5px;
+  border-radius: 0.25em;
+}
+
+._header_collection ._collection_name._edit span:first-child {
+  background-color: #fff;
+  color: #444;
 }
 
 ._collection_name ._collection_length {

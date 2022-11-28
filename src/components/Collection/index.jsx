@@ -17,7 +17,7 @@ function Collection({ collectionName }) {
   const params = useParams();
   const navigate = useNavigate();
 
-  if (params.collectionName) collectionName = params.collectionName;
+  if ("collectionName" in params) collectionName = params.collectionName;
 
   const cards = getCardsByCollection(collectionName);
   const [openCollection, setOpenCollection] = useState(true);
@@ -49,7 +49,10 @@ function Collection({ collectionName }) {
     setIsEditCollection(false);
     renameCollection(collectionName, newName);
     resetAll();
-    navigate(`/collection/${newName}`)
+    console.log(params);
+    if ("collectionName" in params) {
+      navigate(`/collection/${newName}`);
+    }
   };
 
   const handleNewNameChange = (e) => {
