@@ -17,7 +17,7 @@ function Home() {
   };
 
   return (
-    <div className="_home_page">
+    <main className="_home_page">
       <Header />
       <CreateCard
         handleOpenPresets={handleOpenPresets}
@@ -50,7 +50,7 @@ function Home() {
           );
         })}
       </section>
-    </div>
+    </main>
   );
 }
 
