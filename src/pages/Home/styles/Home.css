@@ -1,4 +1,4 @@
-._home_page ._links_to_collections {
+._links_to_collections {
   background-color: var(--grey-opacity-4);
   border-top: 1px solid var(--yellow);
   display: grid;
@@ -9,7 +9,7 @@
   width: 100%;
 }
 
-._link_to_collection {
+._links_to_collections a {
   background-color: var(--grey-opacity-2);
   border-radius: 0.5em;
   padding: 10px;
@@ -23,18 +23,18 @@
   width: 185px;
 }
 
-._link_to_collection ._collection_name {
+._links_to_collections a ._collection_name {
   align-items: center;
   color: #fff;
   display: flex;
   gap: 5px;
 }
 
-._link_to_collection ._collection_name svg {
+._links_to_collections a ._collection_name svg {
   color: var(--yellow);
 }
 
-._link_to_collection ._collection_length {
+._links_to_collections a ._collection_length {
   color: #fff;
   font-size: 0.8em;
   font-style: italic;

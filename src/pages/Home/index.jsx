@@ -36,7 +36,6 @@ function Home() {
           return (
             <Link
               to={`/collection/${collectionName}`}
-              className="_link_to_collection"
               key={i}
             >
               <span className="_collection_name">
