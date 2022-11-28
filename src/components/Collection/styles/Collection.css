@@ -1,6 +1,6 @@
 ._collection_content {
   min-height: 100vh;
-  padding-top: var(--header);
+  padding-top: 60px;
 }
 
 ._header_collection {

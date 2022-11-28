@@ -3,7 +3,7 @@
   flex-direction: column;
   gap: 20px;
   min-height: 100vh;
-  padding-top: var(--header);
+  padding-top: 60px;
 }
 
 ._saved_cards ._collection_content {
