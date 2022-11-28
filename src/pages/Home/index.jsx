@@ -34,18 +34,20 @@ function Home() {
         {collections.map((collectionName, i) => {
           const collectionLength = getCollectionLength(collectionName);
           return (
-            <Link
-              to={`/collection/${collectionName}`}
-              key={i}
-            >
-              <span className="_collection_name">
-                <Icon icon="bi:collection" />
-                {collectionName}
-              </span>
-              <span className="_collection_length">
-                {collectionLength} {collectionLength > 1 ? "cards" : "card"}
-              </span>
-            </Link>
+            <div className="_link_to_collection">
+              <Link
+                to={`/collection/${collectionName}`}
+                key={i}
+              >
+                <span className="_collection_name">
+                  <Icon icon="bi:collection" />
+                  {collectionName}
+                </span>
+                <span className="_collection_length">
+                  {collectionLength} {collectionLength > 1 ? "cards" : "card"}
+                </span>
+              </Link>
+            </div>
           );
         })}
       </section>

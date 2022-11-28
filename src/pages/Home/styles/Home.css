@@ -9,7 +9,7 @@
   width: 100%;
 }
 
-._links_to_collections a {
+._link_to_collection {
   background-color: var(--grey-opacity-2);
   border-radius: 0.5em;
   padding: 10px;
@@ -23,18 +23,18 @@
   width: 185px;
 }
 
-._links_to_collections a ._collection_name {
+._link_to_collection ._collection_name {
   align-items: center;
   color: #fff;
   display: flex;
   gap: 5px;
 }
 
-._links_to_collections a ._collection_name svg {
+._link_to_collection ._collection_name svg {
   color: var(--yellow);
 }
 
-._links_to_collections a ._collection_length {
+._link_to_collection ._collection_length {
   color: #fff;
   font-size: 0.8em;
   font-style: italic;
