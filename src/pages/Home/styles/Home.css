@@ -6,19 +6,17 @@
 
 ._header_collections_home span {
   align-items: center;
-  background-color: var(--grey-dark);
-  border-radius: 25px;
-  border: 1px solid var(--yellow);
+  background-color: var(--grey-opacity-4);
   color: #fff;
   display: flex;
-  font-family: '646', sans-serif;
-  font-size: 0.8em;
+  font-family: "646", sans-serif;
   gap: 5px;
-  padding: 5px 20px;
+  padding: 10px 20px;
   text-align: center;
   justify-content: center;
   text-transform: uppercase;
-  transform: translateY(15px);
+  /* transform: translateY(15px); */
+  border-radius: 0.5em 0.5em 0 0;
 }
 
 ._header_collections_home span svg {
@@ -27,7 +25,7 @@
 
 ._links_to_collections {
   background-color: var(--grey-opacity-4);
-  border-top: 1px solid var(--yellow);
+  /* border-top: 1px solid var(--yellow); */
   display: grid;
   gap: 30px;
   grid-template-columns: repeat(auto-fill, 185px);
