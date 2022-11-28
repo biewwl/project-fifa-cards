@@ -1,3 +1,20 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+._links_to_collections {
+  background-color: var(--grey-opacity-4);
+  border-top: 1px solid var(--yellow);
+  display: grid;
+  gap: 30px;
+  grid-template-columns: repeat(auto-fill, 185px);
+  padding: 40px 20px;
+  justify-content: space-around;
+  width: 100%;
+}
+
 ._link_to_collection {
   background-color: var(--grey-opacity-2);
   border-radius: 0.5em;
@@ -54,15 +71,4 @@
 
 ._header_collections_home span svg {
   color: var(--yellow);
-}
-
-._links_to_collections {
-  background-color: var(--grey-opacity-4);
-  border-top: 1px solid var(--yellow);
-  display: grid;
-  gap: 30px;
-  grid-template-columns: repeat(auto-fill, 185px);
-  padding: 40px 20px;
-  justify-content: space-around;
-  width: 100%;
 }
