@@ -34,6 +34,7 @@ function Collection({ collectionName }) {
     deleteCollection(collectionName);
     refreshCollections();
     refreshCards();
+    navigate("/cards");
   };
 
   const handleIsEditCollectionChange = () => {
