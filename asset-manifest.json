@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/project-fifa-cards/static/css/main.b294df2c.css",
-    "main.js": "/project-fifa-cards/static/js/main.d7b6871b.js",
+    "main.js": "/project-fifa-cards/static/js/main.b2cefd35.js",
     "static/media/ENGLAND_FIFA-23.png": "/project-fifa-cards/static/media/ENGLAND_FIFA-23.cf12f3bc217229dd983f.png",
     "static/media/FUT-FANTASY-RED_FIFA_22.png": "/project-fifa-cards/static/media/FUT-FANTASY-RED_FIFA_22.2c044c766cf800355a10.png",
     "static/media/WALES_FIFA-23.png": "/project-fifa-cards/static/media/WALES_FIFA-23.bdab73ec867b77130cdc.png",
@@ -106,10 +106,10 @@
     "static/media/646-font.otf": "/project-fifa-cards/static/media/646-font.affc69de68c78ac81608.otf",
     "index.html": "/project-fifa-cards/index.html",
     "main.b294df2c.css.map": "/project-fifa-cards/static/css/main.b294df2c.css.map",
-    "main.d7b6871b.js.map": "/project-fifa-cards/static/js/main.d7b6871b.js.map"
+    "main.b2cefd35.js.map": "/project-fifa-cards/static/js/main.b2cefd35.js.map"
   },
   "entrypoints": [
     "static/css/main.b294df2c.css",
-    "static/js/main.d7b6871b.js"
+    "static/js/main.b2cefd35.js"
   ]
 }
